@@ -6,6 +6,16 @@ Each chapter resides in a separate folder for example: `chapter-1`. Inside an ea
 
 
 
+### Solved problems
+
+#### Chapter 1
+
+* [Problem 1.1](solutions/chapter-1/problem-1.1.clj)
+* [Problem 1.2](solutions/chapter-1/problem-1.2.clj)
+* [Problem 1.3](solutions/chapter-1/problem-1.3.clj)
+
+
+
 <!-- Links -->
 
 [SICP]:    https://mitpress.mit.edu/sicp/
