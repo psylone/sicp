@@ -22,4 +22,4 @@
 ;
 ; After that we compute all expressions from left to right starting with a special form `if`. Its predicate gives us `true` value so we get `0` as a result.
 ;
-; Clojure as well as Lisp has applicative-order evaluation strategy. That's why we get a recursive calls of `(p)` and eventually `StackOverflowError` as the result of example. If you don't believe, try it yourself.
+; Clojure as well as LISP has applicative-order evaluation strategy. That's why we get a recursive calls of `(p)` and eventually `StackOverflowError` as the result of example. If you don't believe, try it yourself.
