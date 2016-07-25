@@ -27,7 +27,6 @@
         :else else-clause))
 
 ; (prn (new-if (= 2 3) 0 5))
-
 ; (prn (new-if (= 1 1) 0 5))
 
 (defn sqrt-iter
