@@ -17,6 +17,7 @@ Each chapter resides in a separate directory for example: `chapter-1`. Inside ea
 * [Problem 1.5](solutions/chapter-1/problem-1.5.clj)
 * [Problem 1.6](solutions/chapter-1/problem-1.6.clj)
 * [Problem 1.7](solutions/chapter-1/problem-1.7.clj)
+* [Problem 1.8](solutions/chapter-1/problem-1.8.clj)
 
 
 

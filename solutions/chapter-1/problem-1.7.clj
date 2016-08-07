@@ -35,7 +35,7 @@
 ; (prn (sqrt 57999999999999))
 
 ; Explanation
-
+;
 ; We have two interesting examples here. The first one gives us result which is not so accurate. The second one throws `StackOverflowError`. We can see this weird behaviour when trying to compute very small or conversely large values. This is due to the fact that all calculations performed by the computer have a limited precision.
 ;
 ; Keeping this in mind we can try to find a way to increase efficiency of the algorithm. And we can do this!
