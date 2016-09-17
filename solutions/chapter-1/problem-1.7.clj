@@ -48,7 +48,7 @@
   [guess next-guess]
   (< (/ (abs (- next-guess guess))
         next-guess)
-  0.001))
+     0.001))
 
 (defn precise-sqrt-iter
   [guess x]

@@ -15,8 +15,8 @@
 (defn good-enough?
   [guess next-guess]
   (< (/ (abs (- next-guess guess))
-  next-guess)
-  0.001))
+        next-guess)
+     0.001))
 
 (defn improve
   [guess x]
